@@ -1,0 +1,42 @@
+body{
+    background-color: antiquewhite;
+}
+.forgotpage{
+    margin: auto;
+    text-align: center;
+    background-color: white;
+    height: 70vh;
+    width: 35vw;
+}
+.linkpage h2{
+    font-size: medium;
+}
+.linkpage p{
+    font-size: 2vh;
+}
+.linkpage label{
+    display: flex;
+    justify-content: center;
+    font-size: 2.5vh;
+    color: black;
+    padding: 10px;
+    
+}
+.linkpage input{
+    height: 4vh;
+    width: 21vw;
+}
+.linkpage a{
+    margin: auto;
+   display: grid;
+   text-align: center;
+   justify-content: center;
+   height: 5vh;
+   width: 18vw;
+   position: relative;
+   top: 50px;
+   font-size: 2.7vh;
+   background-color: aqua;
+   color: black;
+   border-radius: 40px;
+}

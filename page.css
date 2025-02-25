@@ -1,0 +1,62 @@
+body {
+    background-color: bisque;
+}
+
+.loginpage {
+    margin: auto;
+    text-align: center;
+    background-color: white;
+    height: 90vh;
+    width: 35vw;
+}
+
+.multiplepage h1 {
+    font-size: 4vh;
+}
+
+.multiplepage label {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 2.5vh;
+    position: relative;
+   top: 16px;
+    left: -140px;
+   
+}
+
+.multiplepage input {
+    height: 4vh;
+    width: 28vw;
+   margin: 3%;
+}
+
+.multiplepage p {
+    float: left;
+    position: relative;
+    right: -40px;
+    top: -30px;
+}
+
+.birth label {
+    position: relative;
+    top: 22px;
+    float: left;
+    position: relative;
+    left: -195px;
+    font-weight: bold;
+}
+
+.birth input {
+    position: relative;
+    top: -20px;
+    right: 3px;
+}
+
+.birth a {
+    position: relative;
+   top: -38px;
+   font-size: 2.7vh;
+   background-color: yellow;
+
+}

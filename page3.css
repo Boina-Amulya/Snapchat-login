@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(255, 255, 0);
+}
+.image{
+    background-color: black;
+    height: 78vh;
+    width: 35vw;
+    margin: auto;
+
+}
+.homepage img{
+    float: left;
+}
+.homepage form{
+    height: 2vh;
+    width: 5vw;
+    position: relative;
+    top: -40px;
+    right: -60px;
+}
+.homepage input{
+    height: 2vh;
+    width: 5vw;
+}
+.addpeople img{
+    float: right;
+   position: relative;
+   top: -50px;
+  right: -230px;
+  height: 9vh;
+  width: 8vw;
+
+}
+.cam img{
+   position: relative;
+   top: -97px;
+   right: -314px;
+   height: 5vh;
+   width: 7vw;
+}
+.circle img{
+   position: relative;
+   top: 250px;
+   left: 115px;
+    height: 10vh;
+    width: 8vw;
+}
+.effect img{
+    position: relative;
+   top: 196px;
+   left: 220px;
+    height: 10vh; 
+}
+.filter img{
+    position: relative;
+   top: 130px;
+   left: 320px;
+    height: 10vh;
+}
+.mask img{
+    position: relative;
+    right: 10px;
+    top: 58px;
+
+}
